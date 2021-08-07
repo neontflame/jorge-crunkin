@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jorge crac.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="jorge down0000" x="0" y="0" width="673" height="278" pivotX="290.25" pivotY="76.55" frameX="0" frameY="-15" frameWidth="673" frameHeight="294"/>
+	<SubTexture name="jorge down0001" x="0" y="0" width="673" height="278" frameX="0" frameY="-15" frameWidth="673" frameHeight="294"/>
+	<SubTexture name="jorge down0002" x="673" y="0" width="658" height="294" frameX="-7" frameY="0" frameWidth="673" frameHeight="294"/>
+	<SubTexture name="jorge down0003" x="673" y="0" width="658" height="294" frameX="-7" frameY="0" frameWidth="673" frameHeight="294"/>
+	<SubTexture name="jorge down0004" x="673" y="0" width="658" height="294" frameX="-7" frameY="0" frameWidth="673" frameHeight="294"/>
+	<SubTexture name="jorge idle0000" x="1331" y="0" width="494" height="410" pivotX="212.65" pivotY="188.9" frameX="0" frameY="-6" frameWidth="494" frameHeight="416"/>
+	<SubTexture name="jorge idle0001" x="1331" y="0" width="494" height="410" frameX="0" frameY="-6" frameWidth="494" frameHeight="416"/>
+	<SubTexture name="jorge idle0002" x="0" y="410" width="490" height="411" frameX="-2" frameY="-5" frameWidth="494" frameHeight="416"/>
+	<SubTexture name="jorge idle0003" x="0" y="410" width="490" height="411" frameX="-2" frameY="-5" frameWidth="494" frameHeight="416"/>
+	<SubTexture name="jorge idle0004" x="490" y="410" width="485" height="416" frameX="-4" frameY="0" frameWidth="494" frameHeight="416"/>
+	<SubTexture name="jorge idle0005" x="490" y="410" width="485" height="416" frameX="-4" frameY="0" frameWidth="494" frameHeight="416"/>
+	<SubTexture name="jorge left0000" x="975" y="410" width="442" height="417" pivotX="212.25" pivotY="189.25" frameX="0" frameY="0" frameWidth="447" frameHeight="417"/>
+	<SubTexture name="jorge left0001" x="975" y="410" width="442" height="417" frameX="0" frameY="0" frameWidth="447" frameHeight="417"/>
+	<SubTexture name="jorge left0002" x="1417" y="410" width="438" height="417" frameX="-9" frameY="0" frameWidth="447" frameHeight="417"/>
+	<SubTexture name="jorge left0003" x="1417" y="410" width="438" height="417" frameX="-9" frameY="0" frameWidth="447" frameHeight="417"/>
+	<SubTexture name="jorge left0004" x="1417" y="410" width="438" height="417" frameX="-9" frameY="0" frameWidth="447" frameHeight="417"/>
+	<SubTexture name="jorge right0000" x="0" y="827" width="560" height="413" pivotX="223.85" pivotY="185.3"/>
+	<SubTexture name="jorge right0001" x="0" y="827" width="560" height="413"/>
+	<SubTexture name="jorge right0002" x="560" y="827" width="557" height="413" frameX="0" frameY="0" frameWidth="560" frameHeight="413"/>
+	<SubTexture name="jorge right0003" x="560" y="827" width="557" height="413" frameX="0" frameY="0" frameWidth="560" frameHeight="413"/>
+	<SubTexture name="jorge right0004" x="560" y="827" width="557" height="413" frameX="0" frameY="0" frameWidth="560" frameHeight="413"/>
+	<SubTexture name="jorge right0005" x="560" y="827" width="557" height="413" frameX="0" frameY="0" frameWidth="560" frameHeight="413"/>
+	<SubTexture name="jorge up0000" x="1117" y="827" width="511" height="461" pivotX="224.4" pivotY="229.5" frameX="-7" frameY="0" frameWidth="528" frameHeight="461"/>
+	<SubTexture name="jorge up0001" x="1117" y="827" width="511" height="461" frameX="-7" frameY="0" frameWidth="528" frameHeight="461"/>
+	<SubTexture name="jorge up0002" x="0" y="1288" width="528" height="447" frameX="0" frameY="-13" frameWidth="528" frameHeight="461"/>
+	<SubTexture name="jorge up0003" x="0" y="1288" width="528" height="447" frameX="0" frameY="-13" frameWidth="528" frameHeight="461"/>
+	<SubTexture name="jorge up0004" x="0" y="1288" width="528" height="447" frameX="0" frameY="-13" frameWidth="528" frameHeight="461"/>
+</TextureAtlas>
