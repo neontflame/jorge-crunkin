@@ -135,6 +135,22 @@ class Character extends FlxSprite
 				addOffset("singDOWN", 2, -32);
 
 				playAnim('idle');
+			case 'jorge':
+				// jorjão ta foda em
+				frames = Paths.getSparrowAtlas("jorge");
+				animation.addByPrefix('idle', 'jorge idle', 24, false);
+				animation.addByPrefix('singUP', 'jorge up', 24);
+				animation.addByPrefix('singRIGHT', 'jorge right', 24);
+				animation.addByPrefix('singDOWN', 'jorge down', 24);
+				animation.addByPrefix('singLEFT', 'jorge left', 24);
+
+				addOffset('idle');
+				addOffset("singUP", 19, 39);
+				addOffset("singRIGHT", 13, -3);
+				addOffset("singLEFT", 1, 1);
+				addOffset("singDOWN", 71, -111);
+
+				playAnim('idle');
 			case 'spooky':
 				frames = Paths.getSparrowAtlas("spooky_kids_assets");
 				animation.addByPrefix('singUP', 'spooky UP NOTE', 24, false);
