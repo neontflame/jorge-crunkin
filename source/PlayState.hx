@@ -2938,8 +2938,6 @@ class PlayState extends MusicBeatState
 		{
 			case "spooky":
 				followY = dad.getMidpoint().y - 30;
-			case "jorge":
-				followY = dad.getMidpoint().y - 363;
 			case "mom" | "mom-car":
 				followY = dad.getMidpoint().y;
 			case 'senpai':
